@@ -6,7 +6,7 @@ contactUs.addEventListener('click', () => {
   window.location.href = whatsappLink;
 });
 
-const phoneNumber = '+1234567890';
+const phoneNumber = '+2349031444628
 const captionText = 'Hello! Can i get more info your';
 const whatsappLink = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(captionText)}`;
 
@@ -25,3 +25,4 @@ knowMore.addEventListener('click', () => {
 
 
 })
+
