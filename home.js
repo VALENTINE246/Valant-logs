@@ -24,3 +24,8 @@ knowMore.addEventListener('click', () => {
 
 })
 
+const closeHc = document.getElementById('close-hc')
+
+closeHc.addEventListener('click', () => {
+  hiddenCard.style.display = 'none'
+})
